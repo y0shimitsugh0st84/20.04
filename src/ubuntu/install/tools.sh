@@ -18,3 +18,7 @@ echo "generate reooooooooooooooopoooooooooooo"
 mkdir -p ~/bin
 curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
 chmod a+x ~/bin/repo
+echo "generate reooooooooooooooopoooohttps://github.com/ProjectPheonix/manifest.git -boooooooo"
+
+repo init -u https://github.com/ProjectPheonix/manifest.git -b 10.0
+repo sync  --force-sync --no-tags --no-clone-bundle
