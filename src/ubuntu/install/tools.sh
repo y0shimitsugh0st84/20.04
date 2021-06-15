@@ -13,7 +13,7 @@ apt-get clean -y
 
 echo "generate locales für en_US.UTF-8"
 locale-gen en_US.UTF-8
-echo "generate reooooooooooooooopoooooooooooo"
+echo "generate reoooooooooooo-***********************************************************ooopoooooooooooo"
 
 mkdir -p ~/bin
 curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
