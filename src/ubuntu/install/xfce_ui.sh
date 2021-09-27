@@ -9,7 +9,7 @@ apt-get purge -y pm-utils xscreensaver*
 apt install --fix-missing -y vim wget ca-certificates  pulseaudio xrdp\
   xauth supervisor uuid-runtime locales \
   openssh-server sudo git build-essential cmake libuv1-dev uuid-dev libmicrohttpd-dev libssl-dev \
-  nano python-pip  xvfb \
+  nano  xvfb \
   python3-pip  locate  libxml2-dev libxslt1-dev libssl-dev libmicrohttpd-dev  \
   libmysqlclient-dev byobu locate cron python-pyaudio python3-pyaudio ffmpeg \
   fonts-liberation libappindicator3-1 libfile-basedir-perl libfile-desktopentry-perl libfile-mimeinfo-perl \
