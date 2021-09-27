@@ -2,7 +2,7 @@
 
 This repository contains a collection of Docker images with headless VNC environments.
 
-Each Docker image is installed with the following components:
+Each Docker image is installed with the following comsssponents:
 
 * Desktop environment [**Xfce4**](http://www.xfce.org) or [**IceWM**](http://www.icewm.org/)
 * VNC-Server (default VNC port `5901`)
